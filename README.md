@@ -1,2 +1,3 @@
-Task 1 - Iris Classification \n
+Task 1 - Iris Classification
+
 Task 2 - Image to Pencil Sketch
